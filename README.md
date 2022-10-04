@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonessw15&label=Profile%20views&color=0e75b6&style=flat" alt="jonessw15" /> </p>
 
-- 💬 pergunte-me sobre **JavaScript e Angular**
+- 💬 pergunte-me sobre **JavaScript e Java**
 
 - :computer: Atualmente estou me aperfeiçoando em **JavaScript e Angular**
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonessw15&show_icons=true&theme=dark&locale=en" alt="jonessw15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonessw15&theme=dark" alt="jonessw15" /></p>
-
