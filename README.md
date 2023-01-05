@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonessw15&label=Profile%20views&color=0e75b6&style=flat" alt="jonessw15" /> </p>
 
-- 💬 pergunte-me sobre **JavaScript e Java**
+- 💬 pergunte-me sobre **JavaScript e PHP**
 
 - :computer: Atualmente estou me aperfeiçoando em **JavaScript e Angular**
 
