@@ -5,7 +5,7 @@
 
 - 💬 pergunte-me sobre **JavaScript e PHP**
 
-- :computer: Atualmente estou me aperfeiçoando em **JavaScript e Angular**
+- :computer: Atualmente estou me aperfeiçoando em **JavaScript e React**
 
 - 🤝 Me siga no meu [Linkedin](https://www.linkedin.com/in/jonestech/)
 
