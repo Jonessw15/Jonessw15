@@ -9,7 +9,7 @@
 
 - 🤝 Me siga no meu [Linkedin](https://www.linkedin.com/in/jonestech/)
 
-- 📫 Contato: **antonio.alves75@aluno.ce.gov.br**
+- 📫 Contato: **jhonatanalves6860@gmail.com**
 
 - 📄 Sobre mim: [https://instagram.com/jonessw_?igshid=YmMyMTA2M2Y=](https://instagram.com/jonessw_?igshid=YmMyMTA2M2Y=)
 
