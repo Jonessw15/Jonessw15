@@ -11,7 +11,7 @@
 
 - 📫 Contato: **jhonatanalves6860@gmail.com**
 
-- 📄 Sobre mim: [https://instagram.com/jonessw_?igshid=YmMyMTA2M2Y=](https://instagram.com/jonessw_?igshid=YmMyMTA2M2Y=)
+
 
 <h3 align="left">Conecte:</h3>
 <p align="left">
